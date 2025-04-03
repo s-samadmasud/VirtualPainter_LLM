@@ -6,3 +6,4 @@ streamlit
 python-dotenv
 pillow
 google-generativeai
+gunicorn==23.0.0
